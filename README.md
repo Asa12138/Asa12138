@@ -30,13 +30,23 @@
 
 ### 🤺 About Me
 
-I am currently pursuing a PhD in bioinformatics at Zhejiang University. Focus on Metagenomics and microbial ecology: mechanisms shaping microbial diversity patterns, distribution and dynamics. Bioinformatics and systems biology: developing ecological network or other mathematical modeling approaches for microbial ecology.
+I am currently pursuing a PhD in bioinformatics at Zhejiang University. 
+
+🎯 Focus on 
+
+- 🧬 Metagenomics and microbial ecology: mechanisms shaping microbial diversity patterns, distribution and dynamics. 
+- 💻 Bioinformatics and systems biology: developing ecological network or other mathematical modeling approaches for microbial ecology.
+
+📥 Contact me
+
+- 📩 Email <pengchen2001@zju.edu.cn>
+- 🏠 Personal website <https://asa12138.github.io/>
 
 </td></tr>
 
 <tr><td>
 
-### 🏢 Education Experience
+### 🏫 Education Experience
 
 - [Zhejiang University, Life Sciences Institute](http://www.cls.zju.edu.cn/clscn/) &emsp; 📌 2022-07-01 —— Now
 
@@ -52,14 +62,16 @@ I am currently pursuing a PhD in bioinformatics at Zhejiang University. Focus on
 
 <tr><td>
 
-### Interests
+### 🤩 Interests
 
--   Animation
+<img align="right" width="30%" src="assets/images/titan.jpg" />
+
+-   📺 Animation
     Such as [Attack on Titan](https://zh.wikipedia.org/wiki/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA), [CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD), and [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty).
 
--   [Bird watching](http://106.14.57.216:5000/)
+-   🦉 [Bird watching](http://106.14.57.216:5000/)
 
--   [Plant cognition](http://site.nsii.org.cn/App/IdentTest/)
+-   🌼 [Plant cognition](http://site.nsii.org.cn/App/IdentTest/)
 
 </td></tr>
 
@@ -67,13 +79,13 @@ I am currently pursuing a PhD in bioinformatics at Zhejiang University. Focus on
 
 ### 📊 GitHub Analytics
 
-![Metrics](/github-metrics.svg)
+![Metrics](github-metrics.svg)
 
 <div align="center" >
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Asa12138&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asa12138&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Asa12138&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,87CEEB,fff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asa12138&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,00CD00,fff&theme=graywhite" /><br>
 
 </div>
 
