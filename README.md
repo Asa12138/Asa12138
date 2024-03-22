@@ -9,7 +9,8 @@
   <div>&nbsp;</div>
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://asa-blog.netlify.app/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://asa12138.github.io/"><img src="https://img.shields.io/badge/Website-个人网页-78C2AD" /></a>&emsp;
+    <a href="https://asa-blog.netlify.app/"><img src="https://img.shields.io/badge/Blog-博客-F1805D" /></a>&emsp;
     <a href="https://asa12138.github.io/mp.html"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/142776729/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/Asa12138/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
@@ -72,6 +73,50 @@ I am currently pursuing a PhD in bioinformatics at Zhejiang University.
 -   🦉 [Bird watching](http://106.14.57.216:5000/)
 
 -   🌼 [Plant cognition](http://site.nsii.org.cn/App/IdentTest/)
+
+</td></tr>
+
+<tr><td>
+
+### 🤩 Skills
+
+<!--  skill badge 技能徽章 -->
+
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Julia Badge](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff&style=flat)
+![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
+
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![MacOS Badge](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=fff&style=flat)
+![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Pychram Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat)
+![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
+![Mysql Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Dockers Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=r,py,linux,obsidian,ai,git,github" /><br>
+
+
+<img align="right" width="30%" src="assets/images/images.gif" />
+
+My favrite programming language is R, I have developed some R packages:
+
+- [pcutils](https://github.com/Asa12138/pcutils): It contains many useful tools or functions for statistics or visualization.
+- [MetaNet](https://github.com/Asa12138/MetaNet): It is a comprehensive network analysis package, especially in various biological omics.
+- [pctax](https://github.com/Asa12138/pctax): It contains some helpful functions for microbiome analysis.
+- [ReporterScore](https://github.com/Asa12138/ReporterScore):L Generalized Reporter Score-based Enrichment Analysis for Omics Data.
+- [plot4fun](https://github.com/Asa12138/plot4fun): `plot4fun` provides many interesting functions for plotting.
 
 </td></tr>
 
