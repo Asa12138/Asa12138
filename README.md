@@ -11,7 +11,7 @@
   <div>
     <a href="https://asa12138.github.io/"><img src="https://img.shields.io/badge/Website-个人网页-78C2AD" /></a>&emsp;
     <a href="https://asa-blog.netlify.app/"><img src="https://img.shields.io/badge/Blog-博客-F1805D" /></a>&emsp;
-    <a href="https://asa12138.github.io/mp.html"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://asa12138.github.io/wp.html"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/142776729/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/Asa12138/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.jianshu.com/u/d62b7298b117"><img src="https://img.shields.io/badge/Jianshu-简书-ee705b" /></a>&emsp;
@@ -99,7 +99,7 @@ I am currently pursuing a PhD in bioinformatics at Zhejiang University.
 ![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Pychram Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat)
+![Pychram Badge](https://img.shields.io/badge/PyCharm-FCF83D?logo=pycharm&logoColor=000&style=flat)
 ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
 ![Mysql Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Dockers Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
@@ -107,8 +107,7 @@ I am currently pursuing a PhD in bioinformatics at Zhejiang University.
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=r,py,linux,obsidian,ai,git,github" /><br>
 
-
-<img align="right" width="30%" src="assets/images/images.gif" />
+<img align="right" width="40%" src="assets/images/images.gif" />
 
 My favrite programming language is R, I have developed some R packages:
 
@@ -116,7 +115,7 @@ My favrite programming language is R, I have developed some R packages:
 - [MetaNet](https://github.com/Asa12138/MetaNet): It is a comprehensive network analysis package, especially in various biological omics.
 - [pctax](https://github.com/Asa12138/pctax): It contains some helpful functions for microbiome analysis.
 - [ReporterScore](https://github.com/Asa12138/ReporterScore):L Generalized Reporter Score-based Enrichment Analysis for Omics Data.
-- [plot4fun](https://github.com/Asa12138/plot4fun): `plot4fun` provides many interesting functions for plotting.
+- [plot4fun](https://github.com/Asa12138/plot4fun): It provides many interesting functions for plotting.
 
 </td></tr>
 
