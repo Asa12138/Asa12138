@@ -78,7 +78,7 @@ I am currently pursuing a PhD in bioinformatics at Zhejiang University.
 
 <tr><td>
 
-### 🤩 Skills
+### 🧑‍💻 Skills
 
 <!--  skill badge 技能徽章 -->
 
@@ -114,7 +114,7 @@ My favrite programming language is R, I have developed some R packages:
 - [pcutils](https://github.com/Asa12138/pcutils): It contains many useful tools or functions for statistics or visualization.
 - [MetaNet](https://github.com/Asa12138/MetaNet): It is a comprehensive network analysis package, especially in various biological omics.
 - [pctax](https://github.com/Asa12138/pctax): It contains some helpful functions for microbiome analysis.
-- [ReporterScore](https://github.com/Asa12138/ReporterScore):L Generalized Reporter Score-based Enrichment Analysis for Omics Data.
+- [ReporterScore](https://github.com/Asa12138/ReporterScore): Generalized Reporter Score-based Enrichment Analysis for Omics Data.
 - [plot4fun](https://github.com/Asa12138/plot4fun): It provides many interesting functions for plotting.
 
 </td></tr>
