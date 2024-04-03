@@ -109,7 +109,7 @@ I am currently pursuing a PhD in bioinformatics at Zhejiang University.
 
 <img align="right" width="40%" src="assets/images/images.gif" />
 
-My favrite programming language is R, I have developed some R packages:
+My favorite programming language is R, I have developed some R packages:
 
 - [pcutils](https://github.com/Asa12138/pcutils): It contains many useful tools or functions for statistics or visualization.
 - [MetaNet](https://github.com/Asa12138/MetaNet): It is a comprehensive network analysis package, especially in various biological omics.
