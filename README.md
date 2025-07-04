@@ -128,8 +128,8 @@ My favorite programming language is R, I have developed some R packages:
 <div align="center" >
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Asa12138&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,87CEEB,fff&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asa12138&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,00CD00,fff&theme=graywhite" /><br>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=asa12138&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,87CEEB,fff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asa12138&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,00CD00,fff&theme=graywhite" /><br>
 
 </div>
 
