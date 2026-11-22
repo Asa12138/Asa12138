@@ -106,11 +106,12 @@ My favorite programming language is **R**. I have developed and maintain the fol
 
 <tr><td>
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
-<div align="center">
-  <img width="100%" src="github-metrics.svg" alt="GitHub Metrics" />
-</div>
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Asa12138&include_all_commits=true&count_private=true&show_icons=true&line_height=22&title_color=6CC0AD&icon_color=3BB0A2&text_color=E2ECEB&ring_color=3BB0A2&bg_color=35,0B1C1E,144542&border_color=1F5C57&border_radius=10" alt="Asa12138 GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asa12138&layout=compact&langs_count=6&title_color=6CC0AD&text_color=E2ECEB&bg_color=35,0B1C1E,144542&border_color=1F5C57&border_radius=10" alt="Asa12138 Top Languages" />
+</p>
 
 </td></tr>
 
