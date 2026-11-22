@@ -29,9 +29,7 @@
 
 </div>
 
-<table>
-
-<tr><td>
+---
 
 ### 🤺 About Me
 
@@ -48,9 +46,7 @@ I am currently pursuing a PhD in Bioinformatics at Zhejiang University.
 - 🏠 Personal website: <https://asa12138.github.io/>
 - 🎓 Google Scholar: <https://scholar.google.com/citations?user=eH_Rj0AAAAAJ&hl=en>
 
-</td></tr>
-
-<tr><td>
+---
 
 ### 🏫 Education Experience
 
@@ -59,21 +55,15 @@ I am currently pursuing a PhD in Bioinformatics at Zhejiang University.
 - [Zhejiang University, College of Life Sciences](http://www.cls.zju.edu.cn/clscn/) &emsp; 📌 2018-09-01 —— 2022-06-30
   - Undergraduate · Major: Biological Science
 
-</td></tr>
-
-<tr><td>
+---
 
 ### 🤩 Interests
-
-<img align="right" width="30%" src="assets/images/titan.jpg" alt="Interests" />
 
 - 📺 **Animation**: [Attack on Titan](https://zh.wikipedia.org/wiki/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA), [CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD), and [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty).
 - 🦉 [**Bird watching**](http://106.14.57.216:5000/)
 - 🌼 [**Plant cognition**](http://site.nsii.org.cn/App/IdentTest/)
 
-</td></tr>
-
-<tr><td>
+---
 
 ### 🧑‍💻 Skills & R Packages
 
@@ -84,35 +74,66 @@ I am currently pursuing a PhD in Bioinformatics at Zhejiang University.
 My favorite programming language is **R**. I have developed and maintain the following CRAN R packages (sorted by GitHub Stars):
 
 <table>
-  <tr>
-    <td valign="middle" width="72%">
-
-| Package | Description | Stats |
-| :--- | :--- | :--- |
-| [**MetaNet**](https://github.com/Asa12138/MetaNet) | Comprehensive multi-omics network analysis | ![Stars](https://img.shields.io/github/stars/Asa12138/MetaNet?style=flat-square&color=1b7a72) ![CRAN](https://cranlogs.r-pkg.org/badges/grand-total/MetaNet?color=3bb0a2) |
-| [**ReporterScore**](https://github.com/Asa12138/ReporterScore) | Generalized Reporter Score-based Enrichment Analysis | ![Stars](https://img.shields.io/github/stars/Asa12138/ReporterScore?style=flat-square&color=1b7a72) ![CRAN](https://cranlogs.r-pkg.org/badges/grand-total/ReporterScore?color=3bb0a2) |
-| [**pcutils**](https://github.com/Asa12138/pcutils) | Useful utilities for statistics & visualization | ![Stars](https://img.shields.io/github/stars/Asa12138/pcutils?style=flat-square&color=1b7a72) ![CRAN](https://cranlogs.r-pkg.org/badges/grand-total/pcutils?color=3bb0a2) |
-| [**pctax**](https://github.com/Asa12138/pctax) | Helpful functions for microbiome & taxonomy analysis | ![Stars](https://img.shields.io/github/stars/Asa12138/pctax?style=flat-square&color=1b7a72) ![CRAN](https://cranlogs.r-pkg.org/badges/grand-total/pctax?color=3bb0a2) |
-| [**plot4fun**](https://github.com/Asa12138/plot4fun) | Interesting & creative functions for plotting | ![Stars](https://img.shields.io/github/stars/Asa12138/plot4fun?style=flat-square&color=1b7a72) ![CRAN](https://cranlogs.r-pkg.org/badges/grand-total/plot4fun?color=3bb0a2) |
-
-</td>
-    <td align="center" valign="middle" width="28%">
-      <img width="100%" src="assets/images/images.gif" alt="R Packages Hex Stickers" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Package</th>
+      <th align="left">Description</th>
+      <th align="left">Stats</th>
+      <th align="center">Hex</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Asa12138/MetaNet"><strong>MetaNet</strong></a></td>
+      <td>Multi-omics network analysis</td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Asa12138/MetaNet?style=flat-square&color=1b7a72" alt="Stars" />
+        <img src="https://cranlogs.r-pkg.org/badges/grand-total/MetaNet?color=3bb0a2" alt="CRAN" />
+      </td>
+      <td align="center" valign="middle" rowspan="5">
+        <img width="160" src="assets/images/images20260126.gif" alt="R Packages Hex Stickers" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Asa12138/ReporterScore"><strong>ReporterScore</strong></a></td>
+      <td>Reporter score enrichment analysis</td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Asa12138/ReporterScore?style=flat-square&color=1b7a72" alt="Stars" />
+        <img src="https://cranlogs.r-pkg.org/badges/grand-total/ReporterScore?color=3bb0a2" alt="CRAN" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Asa12138/pcutils"><strong>pcutils</strong></a></td>
+      <td>Statistics &amp; visualization utilities</td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Asa12138/pcutils?style=flat-square&color=1b7a72" alt="Stars" />
+        <img src="https://cranlogs.r-pkg.org/badges/grand-total/pcutils?color=3bb0a2" alt="CRAN" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Asa12138/pctax"><strong>pctax</strong></a></td>
+      <td>Microbiome &amp; taxonomy analysis</td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Asa12138/pctax?style=flat-square&color=1b7a72" alt="Stars" />
+        <img src="https://cranlogs.r-pkg.org/badges/grand-total/pctax?color=3bb0a2" alt="CRAN" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Asa12138/plot4fun"><strong>plot4fun</strong></a></td>
+      <td>Creative &amp; fun plotting utilities</td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Asa12138/plot4fun?style=flat-square&color=1b7a72" alt="Stars" />
+        <img src="https://cranlogs.r-pkg.org/badges/grand-total/plot4fun?color=3bb0a2" alt="CRAN" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-</td></tr>
-
-<tr><td>
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Asa12138&include_all_commits=true&count_private=true&show_icons=true&line_height=22&title_color=6CC0AD&icon_color=3BB0A2&text_color=E2ECEB&ring_color=3BB0A2&bg_color=35,0B1C1E,144542&border_color=1F5C57&border_radius=10" alt="Asa12138 GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asa12138&layout=compact&langs_count=6&title_color=6CC0AD&text_color=E2ECEB&bg_color=35,0B1C1E,144542&border_color=1F5C57&border_radius=10" alt="Asa12138 Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asa12138&include_all_commits=true&count_private=true&show_icons=true&line_height=22&title_color=6CC0AD&icon_color=3BB0A2&text_color=E2ECEB&ring_color=3BB0A2&bg_color=35,0B1C1E,144542&border_color=1F5C57&border_radius=10" alt="Asa12138 GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asa12138&layout=compact&langs_count=6&title_color=6CC0AD&text_color=E2ECEB&bg_color=35,0B1C1E,144542&border_color=1F5C57&border_radius=10" alt="Asa12138 Top Languages" />
 </p>
-
-</td></tr>
-
-</table>
